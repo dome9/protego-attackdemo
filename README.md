@@ -1,8 +1,16 @@
 # Attack Demo
 
-Run:
+#### Works only against protego-demo account (1616-3542-0639)
+
+
+### Run:
 `$ python demo.py`
 
+To get the menu:
+![alt menu](https://i.imgur.com/GApZuRM.png)
+
+
+### Or see options: 
 ```
 optional arguments:
   -h, --help            show this help message and exit
