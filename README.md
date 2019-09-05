@@ -23,9 +23,9 @@ optional arguments:
 
 - Examples:
 
-`$ python demo.py --endpoint https://9gpdohmi21.execute-api.us-east-1.amazonaws.com/dev/xml`
+`$ python demo.py --endpoint https://xxxxxxxxxxx.execute-api.us-east-1.amazonaws.com/dev/xml`
 
-`$ python demo.py --endpoint https://9gpdohmi21.execute-api.us-east-1.amazonaws.com/dev/xml --attack xxe`
+`$ python demo.py --endpoint https://xxxxxxxxxxx.execute-api.us-east-1.amazonaws.com/dev/xml --attack xxe`
 
-`$ python demo.py --attack injection --account 161635420639`
+`$ python demo.py --attack injection --account 123123123123`
 
