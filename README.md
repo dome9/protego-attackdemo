@@ -1,8 +1,5 @@
 # Attack Demo
 
-#### Works only against protego-demo account (1616-3542-0639)
-
-
 ### Run:
 `$ python demo.py`
 
